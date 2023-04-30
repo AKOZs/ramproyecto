@@ -1,0 +1,7 @@
+{
+  "name": "ramproyecto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
